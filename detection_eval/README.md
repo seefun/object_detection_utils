@@ -5,9 +5,11 @@ this is a simple code to evaluate the performance of one type object detection a
 Input two files: ground truth ('anno.txt') and prediction result ('result.txt').
 
 run: 
+
 ``` python3 detection_eval.py ```
 
 We can get the P-R curve and the AP value:
+
 ![P-R curve](example/PR_curve.png)
 
 ```
