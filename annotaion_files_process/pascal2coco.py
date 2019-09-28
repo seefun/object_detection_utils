@@ -1,3 +1,5 @@
+# https://github.com/JialianW/pascal2coco/blob/master/pascal2coco.py
+
 import json
 import xml.etree.ElementTree as ET
 import os
